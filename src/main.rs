@@ -57,7 +57,7 @@ fn main() {
             println!("Yes ! You won !");
             finish = true;
             wait(1);
-            println!("You have successfully found my number {}, the number was {} and You have {} attempts", name.trim(), random_number, attempts);     
+            println!("You have successfully found my number {}, the number was {} and You had {} attempts", name.trim(), random_number, attempts);     
         },
     }
         attempts += 1;
