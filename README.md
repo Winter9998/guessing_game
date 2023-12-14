@@ -23,7 +23,7 @@ Ensure you have Rust installed on your machine. If not, you can install it from 
 `cd rust-guessing-game`
 
 3. Run the game:
-4. 
+
 `cargo run`
 
 4. How to Play
