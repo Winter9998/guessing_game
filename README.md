@@ -16,7 +16,7 @@ Ensure you have Rust installed on your machine. If not, you can install it from 
 
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/[your-username]/rust-guessing-game.git`
+`git clone https://github.com/Winter9998/rust-guessing-game.git`
 
 2. Change into the project directory:
 
